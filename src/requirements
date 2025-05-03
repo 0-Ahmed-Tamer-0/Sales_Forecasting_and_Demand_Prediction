@@ -1,0 +1,32 @@
+# Core Libraries
+numpy==1.24.0
+pandas==2.1.3
+matplotlib==3.7.1
+seaborn==0.12.2
+
+# Traditional Machine Learning
+scikit-learn==1.3.0
+xgboost==1.7.6
+
+# Regression Algorithms
+statsmodels==0.14.0
+
+# Deep Learning (Neural Networks)
+tensorflow==2.14.0
+keras==2.14.0
+
+# Prophet for Time Forecasting
+prophet==1.1.4
+pystan==2.19.1.1 # Required for Prophet
+
+# ARIMA and SARIMAX Support
+pmdarima==2.0.3
+
+# Saving Models
+joblib==1.3.2
+
+# For Date Processing
+datetime # Built into Python, no external installation required
+
+# Jupyter Notebooks (if you (Used)
+notebook==7.0.6
