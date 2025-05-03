@@ -137,12 +137,19 @@ The following tools and libraries were used throughout the project:
 
 The project is organized into the following structure:
 Sales_Demand_Forecasting/
+
 │
+
 ├── data/ # Raw and processed datasets
+
 ├── notebooks/ # EDA and model training notebooks
+
 ├── models/ # Trained model files
+
 ├── src/ # Python scripts for preprocessing and modeling
+
 ├── visuals/ # Plots and figures
+
 └── README.md # Project documentation
 
 
