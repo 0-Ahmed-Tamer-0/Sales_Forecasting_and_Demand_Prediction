@@ -140,7 +140,7 @@ Sales_Demand_Forecasting/
 
 │
 
-├── data/ # Raw and processed datasets
+├── datasets/ # Raw and processed datasets
 
 ├── notebooks/ # EDA and model training notebooks
 
