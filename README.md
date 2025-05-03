@@ -140,17 +140,17 @@ Sales_Demand_Forecasting/
 
 │
 
-├── datasets/ # Raw and processed datasets
+├── datasets/  Raw and processed datasets
 
-├── notebooks/ # EDA and model training notebooks
+├── notebooks/  Comprehensive documentation of the project, more specialized in how it works.
 
-├── models/ # Trained model files
+├── Final Doc/  Trained model files
 
-├── src/ # Python scripts for preprocessing and modeling
+├── src/  Python scripts for preprocessing and modeling
 
-├── visuals/ # Plots and figures
+├── visuals/  Plots and figures
 
-└── README.md # Project documentation
+└── README.md  Project documentation
 
 
 
