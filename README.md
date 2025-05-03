@@ -102,7 +102,7 @@ Here are the best-performing models based on the evaluation metrics:
 | **MLP**                          | Demand Forecast      | 0.004381 | 0.000037  | 0.006100 | **0.999308** |
 | **BiLSTM + CNN**                 | Sales Prediction     | 0.004398 | 0.000044  | 0.006643 | **0.999232** |
 
-> 🔥 These two models showed remarkable performance, with near-perfect R² scores, making them the top models for demand and sales forecasting.
+>  These two models showed remarkable performance, with near-perfect R² scores, making them the top models for demand and sales forecasting.
 
 ---
 
@@ -120,7 +120,7 @@ These visualizations provide insights into model performance and help in interpr
 
 ---
 
-## 🛠 Tools & Libraries
+##  Tools & Libraries
 
 The following tools and libraries were used throughout the project:
 
@@ -136,5 +136,15 @@ The following tools and libraries were used throughout the project:
 ##  Project Structure
 
 The project is organized into the following structure:
+Sales_Demand_Forecasting/
+│
+├── data/ # Raw and processed datasets
+├── notebooks/ # EDA and model training notebooks
+├── models/ # Trained model files
+├── src/ # Python scripts for preprocessing and modeling
+├── visuals/ # Plots and figures
+└── README.md # Project documentation
+
+
 
 
