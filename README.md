@@ -139,16 +139,16 @@ The project is organized into the following structure:
 Sales_Demand_Forecasting/
 
 │
-│
+
 ├── datasets/  Raw and processed datasets
-│
+
 ├── notebooks/  Comprehensive documentation of the project, more specialized in how it works.
-│
+
 ├── Final Doc/  Trained model files
-│
+
 ├── src/  Python scripts for preprocessing and modeling
-│
+
 ├── visuals/  Plots and figures
-│
+
 └── README.md  Project documentation
 
