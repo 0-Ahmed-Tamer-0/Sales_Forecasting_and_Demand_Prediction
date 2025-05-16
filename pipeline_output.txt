@@ -1,0 +1,32 @@
+data shape: (72294, 28)
+Starting training...
+Fitting 3 folds for each of 8 candidates, totalling 24 fits
+[CV] END regressor__max_depth=None, regressor__min_samples_split=2, regressor__n_estimators=100; total time=  28.2s
+[CV] END regressor__max_depth=None, regressor__min_samples_split=2, regressor__n_estimators=100; total time=  36.7s
+[CV] END regressor__max_depth=None, regressor__min_samples_split=2, regressor__n_estimators=100; total time=  40.6s
+[CV] END regressor__max_depth=None, regressor__min_samples_split=5, regressor__n_estimators=100; total time=  39.1s
+[CV] END regressor__max_depth=None, regressor__min_samples_split=5, regressor__n_estimators=100; total time=  40.2s
+[CV] END regressor__max_depth=None, regressor__min_samples_split=5, regressor__n_estimators=100; total time=  23.2s
+[CV] END regressor__max_depth=None, regressor__min_samples_split=2, regressor__n_estimators=200; total time=  54.2s
+[CV] END regressor__max_depth=None, regressor__min_samples_split=2, regressor__n_estimators=200; total time=  56.0s
+[CV] END regressor__max_depth=None, regressor__min_samples_split=2, regressor__n_estimators=200; total time=  55.7s
+[CV] END regressor__max_depth=10, regressor__min_samples_split=2, regressor__n_estimators=100; total time=  33.5s
+[CV] END regressor__max_depth=10, regressor__min_samples_split=2, regressor__n_estimators=100; total time=  34.0s
+[CV] END regressor__max_depth=10, regressor__min_samples_split=2, regressor__n_estimators=100; total time=  35.3s
+[CV] END regressor__max_depth=None, regressor__min_samples_split=5, regressor__n_estimators=200; total time=  57.4s
+[CV] END regressor__max_depth=None, regressor__min_samples_split=5, regressor__n_estimators=200; total time=  56.8s
+[CV] END regressor__max_depth=None, regressor__min_samples_split=5, regressor__n_estimators=200; total time=  49.2s
+[CV] END regressor__max_depth=10, regressor__min_samples_split=2, regressor__n_estimators=200; total time=  45.1s
+[CV] END regressor__max_depth=10, regressor__min_samples_split=2, regressor__n_estimators=200; total time=  46.4s
+[CV] END regressor__max_depth=10, regressor__min_samples_split=5, regressor__n_estimators=100; total time=  21.2s
+[CV] END regressor__max_depth=10, regressor__min_samples_split=5, regressor__n_estimators=100; total time=  21.6s
+[CV] END regressor__max_depth=10, regressor__min_samples_split=5, regressor__n_estimators=100; total time=  21.2s
+[CV] END regressor__max_depth=10, regressor__min_samples_split=2, regressor__n_estimators=200; total time=  32.9s
+[CV] END regressor__max_depth=10, regressor__min_samples_split=5, regressor__n_estimators=200; total time=  23.0s
+[CV] END regressor__max_depth=10, regressor__min_samples_split=5, regressor__n_estimators=200; total time=  24.4s
+[CV] END regressor__max_depth=10, regressor__min_samples_split=5, regressor__n_estimators=200; total time=  22.2s
+
+Best parameters: {'regressor__max_depth': None, 'regressor__min_samples_split': 5, 'regressor__n_estimators': 200}
+
+Test MSE: 0.00
+Test R²: 1.00
